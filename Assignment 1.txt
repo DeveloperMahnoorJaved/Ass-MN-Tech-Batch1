@@ -1,0 +1,18 @@
+
+Assignment: Basic HTML Structure
+
+Create a simple HTML file that demonstrates your understanding of the .
+on your computer.
+Name it: HTML Assignment
+Inside the folder, create a file named:
+index.htmlIn this file, write the , including:
+<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>website</title></head><body></body></html>
+Inside the <body> tag:
+Add
+Add
+In your <h1> and <p>:
+Write in what you understood about:
+HTML structure
+Purpose of basic tags
+Put the index.html file inside your folder
+Upload Zip File
