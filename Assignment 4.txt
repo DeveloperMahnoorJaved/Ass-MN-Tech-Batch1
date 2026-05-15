@@ -1,0 +1,90 @@
+Assignment 4
+
+
+Assignment: Create a Mini Food Menu Web Page 
+ Objective:
+
+Create a simple HTML web page for a using .
+
+📌 Requirements:
+1. Page Title
+
+Add a main heading for your page:
+
+
+<h1>My Restaurant Menu</h1>
+
+
+2. Menu Categories
+
+Create at least such as:
+
+Fast Food
+
+Drinks
+
+Desserts
+Use headings (<h2>) for each category.
+
+3. Use Lists
+
+Use for menu items
+
+Each category must have
+Example:
+
+
+<h2>Fast Food</h2>
+<ul>
+<li>Burger</li>
+<li>Pizza</li>
+<li>Fries</li>
+</ul>
+
+
+4. Nested List (Important ⭐)
+
+Create (a list inside a list)
+
+👉 Example: Desserts → Fruit Desserts → options
+
+
+<h2>Desserts</h2>
+<ul>
+<li>Cake</li>
+<li>Ice Cream</li>
+<li>Fruit Desserts
+<ul>
+<li>Apple</li>
+<li>Banana</li>
+<li>Orange</li>
+</ul>
+</li>
+</ul>
+
+
+5. Add Images 
+
+Add at least related to your menu
+
+Use the <img> tag with alt attribute
+Example:
+
+
+<img src="burger.jpg" alt="Delicious Burger" width="150">
+
+
+
+
+
+ Learning Goals:
+
+Understand and use:
+
+<ul> (unordered list)
+
+<li> (list items)
+
+Nested lists
+
+<img> tag (src, alt)

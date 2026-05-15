@@ -1,0 +1,183 @@
+Assignment 7
+
+
+
+Announcement: "Assignment – Create a Complete…"
+MN Tech Academy
+Created 11:03 PM11:03 PM
+
+
+
+Assignment – Create a Complete Educational Webpage Using HTML & CSS Objective:
+
+
+
+Requirements 
+1) Create Files
+
+index.html
+
+style.css
+Add:
+
+Website title
+
+Navigation menu
+
+Navigation Menu:
+
+Create links for:
+
+Home
+
+About
+
+Courses
+
+Contact
+
+
+Hero Section
+
+Add:
+
+Main heading
+
+Short paragraph
+
+Button
+Example:
+
+
+Learn Web Development
+
+Start your coding journey today!
+
+
+About Section
+
+Add:
+
+Heading
+
+2 paragraphs about web development
+Use:
+
+Bold text
+
+Italic text
+
+Line break
+
+Horizontal line
+
+
+Courses Section
+
+Create at least 3 course cards using:
+
+HTML
+
+CSS
+
+JavaScript
+Each card should contain:
+
+Course name
+
+Description
+
+Button
+
+
+Student Registration Form
+
+Add a complete form with:
+
+Name
+
+Email
+
+Password
+
+Gender
+
+City
+
+Message box
+
+Submit button
+Use proper labels and placeholders.
+
+Table Section
+
+Create a table of students.
+
+Columns:
+
+Name
+
+Course
+
+Timing
+
+Fee
+Minimum 4 rows.
+
+Image & Link Section
+
+Add:
+
+One image
+
+One clickable link that opens in a new tab
+
+
+CSS Styling Requirements
+Apply Styling On:
+Body
+
+Background color
+
+Font family
+
+Headings
+
+Text color
+
+Paragraphs
+
+Text color
+Font family
+
+Navigation Bar
+
+Background color
+
+Buttons
+
+
+Form
+
+
+Table
+
+Borders
+
+Alternate row colors
+ 
+Important:
+✅ Use semantic HTML tags
+
+✅ Use comments in HTML
+
+✅ All CSS must be written in external file only
+
+Submit:
+
+index.html
+
+style.css
+
+Folder containing images
+Good Luck Students 🚀

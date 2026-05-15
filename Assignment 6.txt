@@ -1,0 +1,130 @@
+Assignment 6
+
+Assignment Instructions
+
+Create a file named
+
+Inside this file, design a using HTML only.
+
+Requirements
+
+Your form must include the following elements:
+1. Heading
+
+Add a main heading for the form.
+
+Example:
+
+Student Registration Form
+
+
+2. Text Input Fields
+
+Add input fields for:
+
+Full Name
+
+Father Name
+
+Email
+
+Password
+
+Phone Number
+
+
+3. Labels
+
+Every input field must have its own label.
+
+4. Radio Buttons
+
+Create Gender options:
+
+Male
+
+Female
+
+
+5. Checkboxes
+
+Create Skills options:
+
+HTML
+
+CSS
+
+JavaScript
+
+
+6. Drop-down List
+
+Create a City selection.
+
+Example cities:
+
+Karachi
+
+Lahore
+
+Islamabad
+
+
+7. Textarea
+
+Add a section for:
+
+Message
+
+Comments
+
+
+8. Date Input
+
+Add a Date of Birth field.
+
+9. File Upload
+
+Add a Profile Picture upload option.
+
+10. Buttons
+
+Add:
+
+Submit Button
+
+
+Important Instructions
+
+Use proper HTML structure:
+
+DOCTYPE
+
+html
+
+head
+
+body
+
+Use correct indentation.
+
+
+All tags must be properly closed.
+
+
+Form should look clean and organized.
+
+
+Use fieldset and legend at least once.
+
+
+Save all work properly before submission.
+Add:
+
+Placeholder text
+
+Required attribute
+
+Proper spacing using line breaks
+
+

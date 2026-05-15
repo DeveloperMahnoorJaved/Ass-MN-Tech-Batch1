@@ -1,0 +1,23 @@
+
+ASSIGNMENT 2
+HTML Assignment: “My Personal Introduction Webpage”
+Create a webpage Using all tags What was taught that includes:
+
+Your name
+
+Introduction
+
+Favorite quote
+
+Educational background
+
+Contact email
+
+Favorite book or movie:
+
+And Write atleast 12 Mathematical formulas using <sup> <sub> tags.
+Submission:
+
+Save file as:Assignment 2
+
+Open it in browser to test.

@@ -1,0 +1,94 @@
+Assignment 5 part1
+
+Assignment 5 Table
+ 
+
+Create a simple using HTML table tags.
+
+
+Create a basic HTML structure
+
+
+Use <table> to create the table
+
+
+Add to the table
+
+
+Add headings using <th>
+
+
+Add data using <td>
+
+
+Use <tr> for rows
+
+📌
+
+Your table must include:
+English
+Urdu
+Math
+Islamiat
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Time Table</title>
+</head>
+
+<body>
+
+<h2 align="center">School Time Table</h2>
+
+<table border="1" align="center" cellpadding="10">
+
+<!-- Heading Row -->
+<tr>
+<th>Day</th>
+<th>Date</th>
+<th>English</th>
+<th>Urdu</th>
+<th>Math</th>
+<th>Islamiat</th>
+</tr>
+
+<!-- Row 1 -->
+<tr>
+<td>Monday</td>
+<td>01-05-2026</td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
+<td>Tuesday</td>
+<td>02-05-2026</td>
+
+</tr>
+
+<!-- Row 3 -->
+<tr>
+<td>Wednesday</td>
+<td>03-05-2026</td>
+
+</tr>
+
+</table>
+
+</body>
+</html>
+
+
+
+<table> → used to create table
+<tr> → table row
+<th> → table heading (bold text)
+<td> → table data (normal text)
+border="1" → adds border to table
+colspan = "2".
+Create your own time table
+Use correct tags
+Keep code clean
+
+

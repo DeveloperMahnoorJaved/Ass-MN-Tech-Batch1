@@ -1,0 +1,19 @@
+Assignment 3
+
+
+Create an HTML webpage about your favorite food recipe.
+
+ Requirements:
+
+* Add a heading with the food name
+* Write a short introduction
+* Add an image of the food
+* Use an unordered list for ingredients
+* Use an ordered list for cooking steps
+* Add a nested list for extra toppings or side items
+* Include at least one related link
+* Use proper HTML structure (html, head, title, body)
+
+ Objective:
+
+Practice HTML links, images.

@@ -1,0 +1,104 @@
+Assignment 5 part2
+
+
+
+Create a in HTML for:
+20 Students
+7 Days (Monday to Sunday)
+Mark attendance as:
+
+Use <table> to create the table
+
+
+Add border="1" to show lines
+
+
+Use <tr> for rows
+
+
+Use <th> for headings
+
+
+Use <td> for data
+
+
+First column = Student Names
+
+
+Next 7 columns = Days of the week
+
+
+Sample Structure (Students will complete it)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Attendance Sheet</title>
+</head>
+<body>
+<h2 align="center">Class Attendance</h2>
+
+<table border="1" ">
+
+<!-- Main Heading -->
+<tr>
+<th colspan="8">Weekly Attendance</th>
+</tr>
+
+<!-- Column Headings -->
+<tr>
+<th>Student Name</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+<th>Saturday</th>
+<th>Sunday</th>
+</tr>
+
+<!-- Sample Students -->
+<tr>
+<td>Student 1</td>
+<td>P</td>
+<td>A</td>
+<td>P</td>
+<td>P</td>
+<td>A</td>
+<td>P</td>
+<td>P</td>
+</tr>
+
+<tr>
+<td>Student 2</td>
+<td>P</td>
+<td>P</td>
+<td>P</td>
+<td>A</td>
+<td>P</td>
+<td>P</td>
+<td>A</td>
+</tr>
+
+<!-- Students must add up to 20 students -->
+
+</table>
+
+</body>
+</html>
+
+
+
+<table> → creates the table
+<tr> → creates a row
+<th> → heading (bold text)
+<td> → normal data
+colspan="8" → makes heading cover full table
+border="1" → adds border
+
+
+
+Add
+Fill attendance using
+Keep code clean and properly aligned
